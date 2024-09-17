@@ -4,7 +4,10 @@ add()
   {
 pavithra;
 }
-sub();
+sub()
+{
+  printf("hello");
+}
 mul();
 div();
 }
