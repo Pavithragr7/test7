@@ -3,6 +3,7 @@ insert
 add()
   {
 pavithra;
+  printf(****************************);
 }
 sub();
 mul();
